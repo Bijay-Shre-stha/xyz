@@ -1,0 +1,215 @@
+{
+  "events": [
+    {
+      "date": "May 4th, 2023",
+      "title": "Pre Event",
+      "event": [
+        {
+          "id": 1,
+          "start_time": "12:30 PM",
+          "end_time": "2:00 PM",
+          "description": "Welcome Program",
+          "venue":"Sagarmatha Hall"
+        },
+        {
+          "id": 2,
+          "start_time": "2:00 PM",
+          "end_time": "2:45 PM",
+          "description": "Snacks and Drinks",
+          "venue":"DWIT Cafeteria"
+        },
+        {
+          "id": 3,
+          "start_time": "3:00 PM",
+          "end_time": "3:25 PM",
+          "description": "Ice Breaker Game",
+          "venue":"Sagarmatha Hall"
+        },
+        {
+          "id": 4,
+          "start_time": "3:30 PM",
+          "end_time": "3:45 PM",
+          "description": "Team Formation and Registration",
+          "venue":"Sagarmatha Hall"
+        },
+        {
+          "id": 5,
+          "start_time": "4:00 PM",
+          "end_time": "5:00 PM",
+          "description": "Team Bonding Games",
+          "venue":"Sagarmatha Hall"
+        },
+        {
+          "id": 6,
+          "start_time": "5:00 PM",
+          "description": "Closing Off",
+          "venue":"Sagarmatha Hall"
+        }
+      ]
+    },
+    {
+      "date": "May 5th, 2023",
+      "title": "Opening Ceremony",
+      "event": [
+        {
+          "id": 1,
+          "start_time": "2:00 PM",
+          "end_time": "3:00 PM",
+          "description": "Check-In | Teams",
+          "venue":"DWIT Complex"
+
+        },
+        {
+          "id": 2,
+          "start_time": "3:00 PM",
+          "end_time": "3:30 PM",
+          "description": "Opening Ceremony",
+          "venue":"Sagarmatha Hall"
+        },
+        {
+          "id": 3,
+          "start_time": "4:00 PM",
+          "end_time": "6:00 PM",
+          "description": "Snacks & Drinks",
+          "venue":"DWIT Cafeteria"
+        },
+
+        {
+          "id": 4,
+          "start_time": "4:45 PM",
+          "end_time": "6:00 PM",
+          "description": "Buffer Time",
+          "venue":"Coding Rooms"
+        },
+        {
+          "id": 5,
+          "start_time": "5:00 PM",
+          "end_time": "8:00 PM",
+          "description": "Submission Period Begins",
+          "venue":"Coding Rooms"
+        },
+        {
+          "id": 6,
+          "start_time": "6:00 PM",
+          "end_time": "10:00 PM",
+          "description": "Talk Session 01",
+          "venue":"Sagarmatha Hall"
+        },
+        {
+          "id": 7,
+          "start_time": "8:00 PM",
+          "description": "Dinner",
+          "venue":"DWIT Cafeteria"
+        }
+      ]
+    },
+    {
+      "date": "May 6th, 2023",
+      "title": "Building MVPs",
+      "event": [
+        {
+          "id": 1,
+          "start_time": "7:00 AM",
+          "end_time": "10:00 AM",
+          "description": "Breakfast",
+          "venue":"DWIT Cafeteria"
+        },
+        {
+          "id": 2,
+          "start_time": "10:00 AM",
+          "end_time": "11:00 AM",
+          "description": "Workshop 01",
+          "venue":"Room 101, Building 13"
+        },
+        {
+          "id": 3,
+          "start_time": "11:30 AM",
+          "end_time": "1:00 PM",
+          "description": "Lunch",
+          "venue":"DWIT Cafeteria"
+        },
+        {
+          "id": 4,
+          "start_time": "1:00 PM",
+          "end_time": "2:00 PM",
+          "description": "Talk Session 02",
+          "venue":"Sagarmatha Hall"
+        },
+        {
+          "id": 5,
+          "start_time": "3:30 PM",
+          "end_time": "3:00 PM",
+          "description": "Snacks & Drinks",
+          "venue":"DWIT Cafeteria"
+        },
+        {
+          "id": 6,
+          "start_time": "4:30 PM",
+          "end_time": "5:00 PM",
+          "description": "Workshop 02",
+          "venue":"Room 101, Building 13"
+        },
+        {
+          "id": 7,
+          "start_time": "5:30 PM",
+          "end_time": "8:00 PM",
+          "description": "Live Music",
+          "venue":"DWIT Courtyard"
+        },
+        {
+          "id": 8,
+          "start_time": "7:30 PM",
+          "description": "Dinner",
+          "venue":"DWIT Cafeteria"
+        }
+      ]
+    },
+    {
+      "date": "May 7th, 2023",
+      "title": "Closing Ceremony",
+      "event": [
+        {
+          "id": 1,
+          "start_time": "5:00 AM",
+          "end_time": "7:00 AM",
+          "description": "Submission Period Ends",
+          "venue":"Coding Rooms"
+        },
+        {
+          "id": 2,
+          "start_time": "5:15 AM",
+          "end_time": "8:00 AM",
+          "description": "Check-Out | Teams",
+          "venue":"DWIT Complex"
+        },
+        {
+          "id": 4,
+          "start_time": "8:00 AM",
+          "end_time": "10:00 AM",
+          "description": "Final Cull",
+          "venue":"Coding Rooms"
+        },
+        {
+          "id": 5,
+          "start_time": "10:00 AM",
+          "end_time": "12:00 PM",
+          "description": "Pitch Deck",
+          "venue":"Sagarmatha Hall"
+        },
+        {
+          "id": 6,
+          "start_time": "12:00 PM",
+          "end_time": "1:00 PM",
+          "description": "Lunch",
+          "venue":"DWIT Cafeteria"
+        },
+        {
+          "id": 7,
+          "start_time": "1:30 PM",
+          "description": "Closing Ceremony",
+          "venue":"Sagarmatha Hall"
+        }
+      ]
+    }
+  ]
+}

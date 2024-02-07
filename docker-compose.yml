@@ -1,0 +1,42 @@
+version: "3.9"
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: ./apps/web/Dockerfile
+    restart: always
+    ports:
+      - "3000:3000"
+    networks:
+      - deerhack_network
+    depends_on:
+      - db
+
+  api:
+    build:
+      context: .
+      dockerfile: ./apps/api/Dockerfile
+    restart: always
+    ports:
+      - 5000:5000
+    networks:
+      - deerhack_network
+    depends_on:
+      - db
+    
+  db:
+    image: mariadb:10.7
+    env_file:
+      - .env
+    ports:
+      - 3306:3306
+    volumes:
+      - my_db:/var/lib/mysql
+
+volumes:
+  my_db:
+
+networks:
+  deerhack_network:
+    # external: true

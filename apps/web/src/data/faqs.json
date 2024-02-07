@@ -1,0 +1,48 @@
+{
+  "faqs": [
+    {
+      "question": "What is DeerHack?",
+      "answer": "DeerHack is an event at Deerwalk Institute of Technology where individuals or teams collaborate to bring forward software or hardware-based solutions to a problem and work intensively for a set amount of time."
+    },
+    {
+      "question": "How Long will DeerHack Last?",
+      "answer": "While DeerHack is a 48-Hour program, DeerHack also has a lot of other fun, team-building events lined up for the participants which will take place from 4th to 7th May 2023 making DeerHack a 5-Day event collectively."
+    },
+    {
+      "question": "Who can Participate in DeerHack?",
+      "answer": "Anyone can participate in DeerHack, regardless of their background or skill level. But do make sure that you have the skill set to make your solution a reality."
+    },
+    {
+      "question": "How will DeerHack be Judged?",
+      "answer": "DeerHack has a diverse set of judges eager to know about your solutions. They will judge you on the basis of multiple factors like innovation, technical difficulty and user experience. Additionally, your teamwork and presentation skills might also be taken into consideration."
+    },
+    {
+      "question": "Can I work on a Project I’ve already done before DeerHack?",
+      "answer": "While we cannot stop ideas generated outside DeerHack from being used, we require that all work on the projects be done during the event. No pre-existing projects will be allowed to be used."
+    },
+    {
+      "question": "What should I bring to DeerHack?",
+      "answer": "You should bring any necessary equipment or tools for your project, such as a laptop or hardware components. Additionally, you may also want to bring a water bottle, and comfortable clothing for the long hours of relentless innovation."
+    },
+    {
+      "question": "Will Food and Drinks be provided at DeerHack?",
+      "answer": "Yes, you will be provided with food and momentary refreshment."
+    },
+    {
+      "question": "Can I work in a Team, or do I have to work alone?",
+      "answer": "DeerHack is a team-based event, but don’t hesitate to register even if you’re alone, we will conduct a pre-event where all the individuals who signed up will be assigned teams respective to their interests and expertise."
+    },
+    {
+      "question": "What do I do if I get stuck on a problem during DeerHack?",
+      "answer": "With our experienced set of guides and mentors, DeerHack will make sure that if you encounter a problem, it will not go unsolved. Just don’t be reluctant to reach out to us if you’re facing a problem."
+    },
+    {
+      "question": "What about APIs?",
+      "answer": "You are permitted to use either your own or third-party APIs, provided that your project is entirely original and has not been used before."
+    },
+    {
+      "question": "I have additional questions, how can I ask them?",
+      "answer": "No need to worry. We are available to help and answer any questions you may have. You can send us an email at deerhack@deerwalk.edu.np or contact us through our social media accounts."
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "sponsorGroups": [
+    {
+      "title": "Title Sponsor",
+      "sponsors": [
+        {
+          "name": "Worldlink",
+          "link": "https://worldlink.com.np/",
+          "logo": "/images/sponsors/worldlink.svg"
+        }
+      ]
+    },
+    {
+      "title": "Platinum Sponsor",
+      "sponsors": [
+        {
+          "name": "Nepal Investment Mega Bank",
+          "link": "https://www.nimb.com.np/",
+          "logo": "/images/sponsors/nimb.png"
+        }
+      ]
+    },
+    {
+      "title": "Gold Sponsors",
+      "sponsors": [
+        {
+          "name": "Devfolio",
+          "link": "https://devfolio.co",
+          "logo": "/images/sponsors/devfolio.png"
+        },
+        {
+          "name": "Polygon",
+          "link": "https://polygon.technology/",
+          "logo": "/images/sponsors/polygon.svg"
+        },
+        {
+          "name": "Amrapali",
+          "link": "https://amrapalibeverage.com/",
+          "logo": "/images/sponsors/amrapali-logo.png"
+        }
+      ]
+    },
+    {
+      "title": "Silver Sponsors",
+      "sponsors": [
+        {
+          "name": "Solana",
+          "link": "https://solana.com ",
+          "logo": "/images/sponsors/solana.svg"
+        },
+        {
+          "name": "Filecoin",
+          "link": "https://filecoin.io ",
+          "logo": "/images/sponsors/filecoin.svg"
+        },
+        {
+          "name": "Replit",
+          "link": "https://replit.com ",
+          "logo": "/images/sponsors/replit.png"
+        },
+        {
+          "name": "Makkusé",
+          "link": "https://makkuse.com/",
+          "logo": "/images/sponsors/makkuse-logo.png"
+        },
+        {
+          "name": "Sifal School",
+          "link": "https://deerwalk.edu.np/sifalschool/",
+          "logo": "/images/sponsors/sifalschool.png"
+        }
+      ]
+    },
+    {
+      "title": "Bronze Sponsors",
+      "sponsors": [
+        {
+          "name": "Sticker Mule",
+          "link": "https://mule.to/p3xf",
+          "logo": "/images/sponsors/stickermule.svg"
+        },
+        {
+          "name": "Nepal Bank Limited",
+          "link": "https://nepalbank.com.np/",
+          "logo": "/images/sponsors/nepal_bank.png"
+        },
+        {
+          "name": "NIBL Ace Capital",
+          "link": "https://www.niblcapital.com/",
+          "logo": "/images/sponsors/nibl_ace_capital.png"
+        },
+        {
+          "name": "TreeLeaf",
+          "link": "http://treeleaf.ai/",
+          "logo": "/images/sponsors/treeleaf.png"
+        },
+        {
+          "name": "Anydone",
+          "link": "https://www.anydone.com/",
+          "logo": "/images/sponsors/anydone.svg"
+        },
+        {
+          "name": "Roadshow",
+          "link": "https://www.facebook.com/roadshowrealestate/",
+          "logo": "/images/sponsors/roadshow.png"
+        },
+        {
+          "name": "wowdevqa",
+          "link": "https://wowdevqa.com/",
+          "logo": "/images/sponsors/wowdevqa.png"
+        }
+      ]
+    },
+    {
+      "title": "Ecommerce Partner",
+      "sponsors": [
+        {
+          "name": "Daraz",
+          "link": "https://www.daraz.com.np/",
+          "logo": "/images/sponsors/daraz.png"
+        }
+      ]
+    },
+    {
+      "title": "Media Partners",
+      "sponsors": [
+        {
+          "name": "TechLekh",
+          "link": "https://techlekh.com/",
+          "logo": "/images/sponsors/techlekh.png"
+        },
+        {
+          "name": "DWIT News",
+          "link": "https://dwitnews.com/",
+          "logo": "/images/sponsors/dwitnews.png"
+        }
+      ]
+    },
+    {
+      "title": "App Partner",
+      "sponsors": [
+        {
+          "name": "Hamro Patro",
+          "link": "https://www.hamropatro.com/",
+          "logo": "/images/sponsors/hamro_patro.svg"
+        }
+      ]
+    },
+    {
+      "title": "Education Partner for Abroad Studies and IELTS Certification",
+      "sponsors": [
+        {
+          "name": "IDP",
+          "link": "https://www.idp.com/",
+          "logo": "/images/sponsors/idp.png"
+        }
+      ]
+    },
+    {
+      "title": "Gifting Partner",
+      "sponsors": [
+        {
+          "name": "Coco Affaire",
+          "link": "https://cocoaffaire.com/",
+          "logo": "/images/sponsors/coco_affaire.png"
+        }
+      ]
+    },
+    {
+      "title": "Confectionery Partner",
+      "sponsors": [
+        {
+          "name": "Live Bakery",
+          "link": "https://www.facebook.com/Livebakery766/",
+          "logo": "/images/sponsors/livebakery.png"
+        }
+      ]
+    },
+    {
+      "title": "Entertainment Partner",
+      "sponsors": [
+        {
+          "name": "QFX Cinemas",
+          "link": "https://www.qfxcinemas.com/",
+          "logo": "/images/sponsors/qfx.svg"
+        }
+      ]
+    },
+    {
+      "title": "Beverage Partner",
+      "sponsors": [
+        {
+          "name": "Mount Strada Coffee",
+          "link": "https://mountstradacoffee.com/",
+          "logo": "/images/sponsors/mount_strada.png"
+        }
+      ]
+    },
+    {
+      "title": "Mobility Partner",
+      "sponsors": [
+        {
+          "name": "Segway",
+          "link": "https://www.segway.com/",
+          "logo": "/images/sponsors/segway.png"
+        }
+      ]
+    },
+    {
+      "title": "Supported By",
+      "sponsors": [
+        {
+          "name": "Github Education",
+          "link": "https://education.github.com/",
+          "logo": "/images/sponsors/github-logo.png"
+        },
+        {
+          "name": "Programiz",
+          "link": "https://www.programiz.com/",
+          "logo": "/images/sponsors/pc_logo.svg"
+        },
+        {
+          "name": "Hawkai",
+          "link": "https://hawkai.online/",
+          "logo": "/images/sponsors/hawkai.png"
+        },
+        {
+          "name": "eSatya",
+          "link": "https://esatya.io/",
+          "logo": "/images/sponsors/esatya.png"
+        },
+        {
+          "name": "Balsamiq",
+          "link": "https://balsamiq.com/",
+          "logo": "/images/sponsors/balsamiq-logo.png"
+        },
+        {
+          "name": "Dohoriko Chhal",
+          "link": "https://www.youtube.com/@dohorikochhal192",
+          "logo": "/images/sponsors/dohoriko_chal.png"
+        },
+        {
+          "name": "Nextgen",
+          "link": "https://gnextcom.com/",
+          "logo": "/images/sponsors/nextgen.png"
+        },
+        {
+          "name": "Mirror Maze",
+          "link": "https://www.instagram.com/mirrormaze.nepal/?hl=en",
+          "logo": "/images/sponsors/mirrormaze.png"
+        },
+        {
+          "name": "Astrek Wall Climbing",
+          "link": "https://astrekclimbing.com/",
+          "logo": "/images/sponsors/astrek.png"
+        },
+        {
+          "name": "Nailed it",
+          "link": "https://www.instagram.com/nailed0_0it/",
+          "logo": "/images/sponsors/nailedit.png"
+        }
+      ]
+    },
+    {
+      "title": "Training Partner",
+      "sponsors": [
+        {
+          "name": "Deerwalk Compware",
+          "link": "https://deerwalkcompware.com/",
+          "logo": "/images/sponsors/deerwalk_compware.svg"
+        }
+
+      ]
+    },
+    {
+      "title": "Ranking Partner",
+      "sponsors": [
+        {
+          "name": "The Everest List",
+          "link": "https://theeverestlist.org/",
+          "logo": "/images/sponsors/everestlist.png"
+        }
+      ]
+    },
+    {
+      "title": "Community Partners",
+      "sponsors": [
+        {
+          "name": "CSIT Association of Nepal",
+          "link": "https://csitan.org.np",
+          "logo": "/images/sponsors/csitan.png"
+        },
+        {
+          "name": "Code for Change",
+          "link": "https://codeforchangenepal.com/",
+          "logo": "/images/sponsors/code-for-change.png"
+        },
+        {
+          "name": "Code for Nepal",
+          "link": "https://codefornepal.org/",
+          "logo": "/images/sponsors/code-for-nepal.png"
+        },
+        {
+          "name": "COESIS",
+          "link": "https://www.facebook.com/coesis.np",
+          "logo": "/images/sponsors/coesis.svg"
+        },
+        {
+          "name": "Microsoft Student Ambassador",
+          "link": "https://studentambassadors.microsoft.com/",
+          "logo": "/images/sponsors/mlsa.png"
+        }
+      ]
+    }
+  ]
+}

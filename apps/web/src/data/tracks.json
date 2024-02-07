@@ -1,0 +1,24 @@
+{
+  "tracks": [
+    {
+      "logo": "data-science",
+      "title": "Data Science/Machine Learning",
+      "description": "Transforming Data into Insights: Create Humans out of Machines."
+    },
+    {
+      "logo": "blockchain",
+      "title": "Blockchain",
+      "description": "Joining the Revolution of Decentralization."
+    },
+    {
+      "logo": "interactive-technology",
+      "title": "Interactive Technology",
+      "description": "Connecting the World with the Internet of Things."
+    },
+    {
+      "logo": "open-innovation",
+      "title": "Open Innovation",
+      "description": "Solving Problems, building a Better Future for Everyone."
+    }
+  ]
+}

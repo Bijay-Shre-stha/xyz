@@ -1,0 +1,262 @@
+{
+  "teams": [
+    {
+      "title": "Event Leads",
+      "members": [
+        {
+          "name": "Prayatna Mishra",
+          "image": "/images/teams/Prayatna Mishra.jpeg",
+          "linkedin": "https://www.linkedin.com/in/prayatna-mishra-685384123/"
+        },
+        {
+          "name": "Bipashree Aryal",
+          "image": "/images/teams/Bipashree Aryal.jpeg",
+          "linkedin": "https://www.linkedin.com/in/bipashree-aryal-6aa863208/"
+        }
+      ]
+    },
+    {
+      "title": "Operations and Logistics",
+      "members": [
+        {
+          "name": "Tej Agrawal",
+          "image": "/images/teams/Tej Agrawal.jpg",
+          "linkedin": "https://www.linkedin.com/in/agrawaltej/"
+        },
+        {
+          "name": "Shreejal Mainali",
+          "image": "/images/teams/Shreejal Mainali.jpeg",
+          "linkedin": "https://www.linkedin.com/in/shreejal-mainali-543a1b239/"
+        },
+        {
+          "name": "Piyush Rimal",
+          "image": "/images/teams/Piyush Rimal.jpeg",
+          "linkedin": "http://www.linkedin.com/in/piyush-rm/"
+        }
+      ]
+    },
+    {
+      "title": "Design Team",
+      "members": [
+        {
+          "name": "Shabda Shrestha",
+          "image": "/images/teams/Shabda Shrestha.jpeg",
+          "linkedin": "https://www.linkedin.com/in/shabda-shrestha-734262245/",
+          "rowspan": true
+        },
+        {
+          "name": "Kripa Acharya",
+          "image": "/images/teams/Kripa Acharya.jpeg",
+          "linkedin": "https://www.linkedin.com/in/kriipaaa"
+        },
+        {
+          "name": "Aashish Kadel",
+          "image": "/images/teams/Aashish Kadel.jpeg",
+          "linkedin": "https://www.linkedin.com/in/aashish-kadel/"
+        },
+        {
+          "name": "Bishesh Manandhar",
+          "image": "/images/teams/Bishesh Manandhar.jpeg",
+          "linkedin": "https://www.linkedin.com/in/bishesh-manandhar-71660b239/"
+        }
+      ]
+    },
+    {
+      "title": "Technical Team",
+      "members": [
+        {
+          "name": "Rojen Maharjan",
+          "image": "/images/teams/Rojen Maharjan.jpeg",
+          "linkedin": "https://www.linkedin.com/in/rojen11/"
+        },
+        {
+          "name": "Kritartha Sapkota",
+          "image": "/images/teams/Kritartha Sapkota.jpeg",
+          "linkedin": "https://www.linkedin.com/in/kritartha-sapkota-88264a211/"
+        },
+        {
+          "name": "Asim Poudel",
+          "image": "/images/teams/Asim Poudel.jpeg",
+          "linkedin": "https://www.linkedin.com/in/asim-poudel-45989b244/"
+        }
+      ]
+    },
+    {
+      "title": "Outreach Team",
+      "members": [
+        {
+          "name": "Samriddhi Paudel",
+          "image": "/images/teams/Samriddhi Paudel.jpeg",
+          "linkedin": "https://www.linkedin.com/in/samriddhi-paudel-183755239"
+        },
+        {
+          "name": "Subhangi Lamichhane",
+          "image": "/images/teams/Subhangi Lamichhane.jpeg",
+          "linkedin": "http://linkedin.com/in/subhangi-lamichhane"
+        },
+        {
+          "name": "Kinjle Nepal",
+          "image": "/images/teams/Kinjle Nepal.jpeg",
+          "linkedin": "https://www.linkedin.com/in/kinjle-nepal-598908207/"
+        }
+      ]
+    },
+    {
+      "title": "Judges and Mentor Coordinators",
+      "members": [
+        {
+          "name": "Tushar Luitel",
+          "image": "/images/teams/Tushar Luitel.jpeg",
+          "linkedin": "https://www.linkedin.com/in/tushar-luitel/"
+        },
+        {
+          "name": "Samrajya Basnyat",
+          "image": "/images/teams/Samrajya Basnyat.jpeg",
+          "linkedin": "https://www.linkedin.com/in/samrajya-basnyat-5392521a9"
+        }
+      ]
+    },
+    {
+      "title": "PR and Documentation",
+      "members": [
+        {
+          "name": "Saishma Ghimire",
+          "image": "/images/teams/Saishma Ghimire.jpeg",
+          "linkedin": "https://www.linkedin.com/in/saishma/"
+        },
+        {
+          "name": "Aasara Bade Shrestha",
+          "image": "/images/teams/Aasara Bade Shrestha.jpeg",
+          "linkedin": "https://www.linkedin.com/in/aasara/"
+        }
+      ]
+    },
+    {
+      "title": "IT Department",
+      "members": [
+        {
+          "name": "Nirnaya Dangol",
+          "image": "/images/teams/Nirnaya Dangol.jpg",
+          "linkedin": "https://www.linkedin.com/in/nirnaya-dangol-ba6647211/"
+        },
+        {
+          "name": "Sakar Shrestha",
+          "image": "/images/teams/Sakar Shrestha.jpg",
+          "linkedin": "https://www.linkedin.com/in/sakar-shrestha/"
+        }
+      ]
+    },
+    {
+      "title": "Emcee",
+      "members": [
+        {
+          "name": "Yokibha Chapagain",
+          "image": "/images/teams/Yokibha Chapagain.jpg",
+          "linkedin": "https://www.linkedin.com/in/yokibha-chapagain-339391211"
+        },
+        {
+          "name": "Chadani Thapa",
+          "image": "/images/teams/Chadani Thapa.jpeg",
+          "linkedin": "https://www.linkedin.com/in/chadani-thapa-85084a211/"
+        },
+        {
+          "name": "Aayusha Karki",
+          "image": "/images/teams/Aayusha Karki.jpeg",
+          "linkedin": "https://www.linkedin.com/in/aayusha-karki-152685239"
+        }
+      ]
+
+    },
+    {
+      "title": "Volunteers",
+      "members": [
+        {
+          "name": "Shrey Dip Bhandari",
+          "image": "/images/teams/Shrey Dip Bhandari.jpg",
+          "linkedin": "https://www.linkedin.com/in/shrey-dip-bhandari-b22527239"
+        },
+        {
+          "name": "Aryana Lamichhane",
+          "image": "/images/teams/Aryana Lamichhane.jpeg",
+          "linkedin": "https://www.linkedin.com/in/aryana-lamichhane-17584b21b"
+        },
+        {
+          "name": "Bishrut Uprety",
+          "image": "/images/teams/Bishrut Uprety.jpeg",
+          "linkedin": "https://www.linkedin.com/mwlite/in/bishrut-uprety-6a405a15b"
+        },
+        {
+          "name": "Abhigya Karmacharya",
+          "image": "/images/teams/Abhigya Karmacharya.jpeg",
+          "linkedin": "https://www.linkedin.com/in/abhigya-karmacharya-2ab512239"
+        },
+        {
+          "name": "Rahul Shah",
+          "image": "/images/teams/Rahul Shah.jpeg",
+          "linkedin": "https://www.linkedin.com/in/rahul-shah-2a4791250"
+        },
+        {
+          "name": "Bijay Shrestha",
+          "image": "/images/teams/Bijay Shrestha.jpeg",
+          "linkedin": "https://www.linkedin.com/in/bijay-shrestha-771b66225/"
+        },
+        {
+          "name": "Kriti Chimariya",
+          "image": "/images/teams/Kriti Chimariya.jpeg",
+          "linkedin": "http://linkedin.com/in/kriti-chimariya-5332a126a"
+        },
+        {
+          "name": "Aashutosh Pudasaini",
+          "image": "/images/teams/Aashutosh Pudasaini.jpeg",
+          "linkedin": "https://www.linkedin.com/in/aashutosh-pudasaini-bb99741b5/"
+        },
+        {
+          "name": "Aashutosh Bikram Karki",
+          "image": "/images/teams/Aashutosh Bikram Karki.jpeg",
+          "linkedin": "https://www.linkedin.com/in/aashutosh-bikram-karki-843004264/"
+        },
+        {
+          "name": "Bipin Bartaula",
+          "image": "/images/teams/Bipin Bartaula.jpeg",
+          "linkedin": "https://www.linkedin.com/in/bipin-bartaula-45a7a0265"
+        },
+        {
+          "name": "Samrat Nakarmi",
+          "image": "/images/teams/Samrat Nakarmi.jpeg",
+          "linkedin": "https://www.linkedin.com/mwlite/in/samrat-nakarmi-90968321a"
+        },
+        {
+          "name": "Sheetashma Karki",
+          "image": "/images/teams/Sheetashma Karki.jpeg",
+          "linkedin": "https://www.linkedin.com/in/sheetashma-karki-82086a224"
+        },
+        {
+          "name": "Mandika Thapa Magar",
+          "image": "/images/teams/Mandika Magar.jpeg",
+          "linkedin": "http://linkedin.com/in/mandika-magar-b53559244"
+        },
+        {
+          "name": "Prakriti Baral",
+          "image": "/images/teams/Prakriti Baral.jpeg",
+          "linkedin": "https://www.linkedin.com/in/prakriti-baral-442aa9263"
+        },
+        {
+          "name": "Pranjal Raut",
+          "image": "/images/teams/Pranjal Raut.jpg",
+          "linkedin": "https://www.linkedin.com/in/pranjal-raut-39a025264/"
+        },
+        {
+          "name": "Sachhyam Kumar Shrestha",
+          "image": "/images/teams/Sachhyam Kumar Shrestha.jpg",
+          "linkedin": "https://www.linkedin.com/in/sachhyam-kumar-shrestha-130a59218/"
+        },
+        {
+          "name": "Sampanna Gautam",
+          "image": "/images/teams/Sampanna Gautam.jpeg",
+          "linkedin": "https://www.linkedin.com/in/sampanna-gautam-914229264/"
+        }
+
+      ]
+    }
+  ]
+}

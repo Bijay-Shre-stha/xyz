@@ -1,0 +1,131 @@
+{
+  "prizes": [
+    [
+      {
+        "category": "",
+        "prize": {
+          "icon": "/images/prizes/winner.svg",
+          "title": "Grand Prize",
+          "description": "Overall Winner of the event",
+          "prize": "Rs. 50,000"
+        }
+      }
+    ],
+    [
+      {
+        "category": "",
+        "prize": {
+          "icon": "/images/prizes/datascience.svg",
+          "title": "Track Winner",
+          "description": "For Data Science and AI",
+          "prize": "Rs. 15,000"
+        }
+      },
+      {
+        "category": "",
+        "prize": {
+          "icon": "/images/prizes/blockchain.svg",
+          "title": "Track Winner",
+          "description": "For Blockchain",
+          "prize": "Rs. 15,000"
+        }
+      }
+    ],
+    [
+      {
+        "category": "",
+        "prize": {
+          "icon": "/images/prizes/interactive_technology.svg",
+          "title": "Track Winner",
+          "description": "For Interactive Technologies",
+          "prize": "Rs. 15,000"
+        }
+      },
+      {
+        "category": "",
+        "prize": {
+          "icon": "/images/prizes/open_innovation.svg",
+          "title": "Track Winner",
+          "description": "For Open Innovation",
+          "prize": "Rs. 15,000"
+        }
+      }
+    ],
+    [
+      {
+        "category": "Polygon",
+        "prize": {
+          "icon": "/images/prizes/polygon.svg",
+          "title": "Ethereum + Polygon Track",
+          "description": "Best hack built on Ethereum + Polygon",
+          "prize_text": "Worth",
+          "prize": "$200"
+        }
+      },
+      {
+        "category": "",
+        "prize": {
+          "icon": "/images/prizes/polygon.svg",
+          "title": "Ethereum Track",
+          "description": "Best hack built on Ethereum",
+          "prize_text": "Worth",
+          "prize": "$150"
+        }
+      }
+    ],
+    [
+      {
+        "category": "Filecoin",
+        "prize": {
+          "icon": "/images/prizes/filecoin.svg",
+          "title": "Filecoin Track",
+          "description": "Best use of Filecoin and/or IPFS",
+          "prize_text": "Worth",
+          "prize": "$200"
+        }
+      },
+      {
+        "category": "Replit",
+        "prize": {
+          "icon": "/images/prizes/replit.svg",
+          "title": "Replit Track",
+          "description": "Winning Project deployed on Replit",
+          "prize_text": "Worth",
+          "prize": "$150"
+        }
+      }
+    ],
+    [
+      {
+        "category": "Solana",
+        "prize": {
+          "icon": "/images/prizes/solana.svg",
+          "title": "Young Gun",
+          "description": "for the best project beginners just starting out on Solana",
+          "prize_text": "Worth",
+          "prize": "$100"
+        }
+      },
+      {
+        "category": "",
+        "prize": {
+          "icon": "/images/prizes/solana.svg",
+          "title": "Master Glasseater",
+          "description": "for the best advanced project that is almost ready for full-time",
+          "prize_text": "Worth",
+          "prize": "$500"
+        }
+      },
+      {
+        "category": "",
+        "prize": {
+          "icon": "/images/prizes/solana.svg",
+          "title": "Rising Teknoking",
+          "description": "for the best project that goes into depth, demonstrating higher-order code",
+          "prize_text": "Worth",
+          "prize": "$250"
+        }
+      }
+    ]
+  ]
+}
